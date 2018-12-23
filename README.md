@@ -1,12 +1,18 @@
 # 경북대 연합 프로젝트
-##사물인터넷 기반 차량 인포테인먼트 제어 서비스 응용 개발
+## 사물인터넷 기반 차량 인포테인먼트 제어 서비스 응용 개발
 
 ### Mobile(Android)
 ### : Android Studio(Kotlin), RxJava, Dagger, Apache commons-net(FTP), etc
+
+
 ### Server
 ### : Python 3.7.0, Windows 
+
+
 ### IVI(Raspberry)
 ### : Python 3.5, Raspbian, ffpyplayer, opencv-python, pyftpdlib, XRDP(Debug)
+
+
 
 
 
