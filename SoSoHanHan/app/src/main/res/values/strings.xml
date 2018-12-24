@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IVI 클라이언트</string>
+    <string name="video">동영상</string>
+    <string name="audio">오디오</string>
+    <string name="picture">사진</string>
+    <string name="back">뒤로가기</string>
+    <string name="addlist">추가</string>
+    <string name="control">리모컨</string>
+    <string name="end">종료</string>
+    <string name="item">SoSoHanHan</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+</resources>
