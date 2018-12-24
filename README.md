@@ -3,19 +3,26 @@
 
 <br /><br /><br /><br /><br />
 ## 프로젝트 설계
+![Alt text](/Image/통신.png)
 ### Mobile(Android)
 #### : Android Studio(Kotlin), RxJava, Dagger, Apache commons-net(FTP), etc
-<br /><br />
-
+<br />
 ### Server
 #### : Python 3.7.0, Windows 
-<br /><br />
+<br />
 
 ### IVI(Raspberry)
 #### : Python 3.5, Raspbian, ffpyplayer, opencv-python, pyftpdlib, XRDP(Debug)
 
+## 기능명세
+### 미디어 재생/일시정지/중지 기능
+### 사진 보여주기 기능
+### 모바일에 있는 미디어 파일을 IVI에 보내기 기능
+### 메시지 큐 관리 (다대다 연결 고려)
 
-<br /><br />
+
+
+<br />
 ## 애로사항
 ### Mobile(Android)
 #### Rxjava, Dagger2 라이브러리 공부와 병행하여 진행
@@ -32,3 +39,5 @@
 #### OpenCV, ffpyplayer 라즈베리파이 설정 문제 
 #### 모듈화 문제
 #### 메모리 할당 문제 (동영상, 사진)
+
+![Alt text](/Image/실행화면.png)
