@@ -40,4 +40,4 @@
 #### 모듈화 문제
 #### 메모리 할당 문제 (동영상, 사진)
 
-![Alt text](/Image/실행화면.JPG)
+![Alt text](/Image/실행화면.jpg)
