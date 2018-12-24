@@ -15,10 +15,8 @@
 #### : Python 3.5, Raspbian, ffpyplayer, opencv-python, pyftpdlib, XRDP(Debug)
 
 
-
-
-<br /><br /><br /><br />
-## 프로젝트 설계
+<br /><br />
+## 애로사항
 ### Mobile(Android)
 #### Rxjava, Dagger2 라이브러리 공부와 병행하여 진행
 #### 소켓을 이용한 서버와 통신 연결 구조
